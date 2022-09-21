@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    background-color:black;
+    color:yellow;
+   padding:10px;
+
+    font-weight: 600;
+     display:flex;
+     justify-content:space-between
+}
+ul{
+     background-color:white;
+     color:black;
+    display:flex;
+    list-style-type:none;
+    justify-content:space-evenly;
+}
+nav{
+    width:60vw;
+
+}
+
+.big-img{
+
+     width:100%;
+     margin:1 rem;
+     margin-bottom:0px;
+
+}
+.hero{
+     margin-top:-2rem;
+    color:yellow;
+    background-color:black;
+    text-align:center;
+}
+P{
+    background-color:white;
+    color:black;
+}
+
+p:hover{
+color:red;
+font-size:large;
+    
+}
+li:hover{
+    color:red;
+    font-size:large;
+}
+ 
+    
